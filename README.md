@@ -16,9 +16,9 @@ Scripts to re-build assets for Card Jitsu.
 npm install
 ```
 
--   Then, run the JSFL script (export.jsfl) to extract the assets from the FLAs. It will ask for the location to input from and the location of the output. The input should be `./flas` as that is where the FLAs are located by default. The output should be `./raw` as that is what other scripts are set for by default.
+-   Then, run the JSFL script (`export.jsfl`) to extract the assets from the FLAs. It will ask for the location to input from and the location of the output. The input should be `./flas` as that is where the FLAs are located by default. The output should be `./raw` as that is what other scripts are set for by default.
 -   This will likely take many hours to complete.
--   Once the extraction is complete, run the (data.jsfl) file to extract the layer data from the FLAs. Same as above, it will ask for input and output folders. These should be the same as the first script.
+-   Once the extraction is complete, run the (`data.jsfl`) file to extract the layer data from the FLAs. Same as above, it will ask for input and output folders. These should be the same as the first script.
 
 -   Next, run the `mask.js` script to correct positioning of any exported masks. This is a one-time fix for the masks that were exported incorrectly.
 
