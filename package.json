@@ -1,0 +1,22 @@
+{
+  "name": "cardjitsurebuilder",
+  "version": "1.0.0",
+  "description": "Rebuild Card Jitsu assets for use in Phaser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Club-Penguin-Plus-Official/cardjitsurebuilder.git"
+  },
+  "author": "Octo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Club-Penguin-Plus-Official/cardjitsurebuilder/issues"
+  },
+  "homepage": "https://github.com/Club-Penguin-Plus-Official/cardjitsurebuilder#readme",
+  "dependencies": {
+    "sharp": "^0.32.0"
+  }
+}
