@@ -1,4 +1,4 @@
-### (Comfy)[https://github.com/wizguin] advised that some animations are not feasible in spritesheets. Publishing this repo in case anyone wants to use it for their own purposes, Club Penguin Plus will not be using this method for powercard animations.
+### [Comfy](https://github.com/wizguin) advised that some animations are not feasible in spritesheets. Publishing this repo in case anyone wants to use it for their own purposes, Club Penguin Plus will not be using this method for powercard animations.
 
 # Card Jitsu Re-builder
 
